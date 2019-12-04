@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    //Main color palette
+    <color name="colorPrimary">#1B7FC3</color>
+    <color name="colorPrimaryDark">#155D8D</color>
+    <color name="colorAccent">#F57F20</color>
+    <color name="colorPrimaryText">#474747</color>
+    <color name="colorSecondaryText">#757575</color>
+    <color name="colorDivider">#BDBDBD</color>
+    <color name="colorVeryLightGrey">#f1f1f1</color>
+
+    //Other colors
+    <color name="colorLightGrey">#A3A2A2</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorTransparent">#00000000</color>
+    <color name="colorGreen">#43a047</color>
+    <color name="colorPrimaryTransparent">#10078bbf</color>
+    <color name="colorError">#e53935</color>
+    <color name="colorFacebook">#3B5998</color>
+    <color name="colorStandardOrder">#808080</color>
+    <color name="colorWhiteShade">#FBFBFB</color>
+    <color name="colorSuperLightGray">#E0E0E0</color>
+</resources>

@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">ChatApp</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="menu_chat">Chat</string>
+    <string name="menu_profile_viewers">Profile Viewers</string>
+    <string name="menu_friends">Friends</string>
+    <string name="menu_likes_you">Likes You</string>
+    <string name="action_logout">Logout</string>
+    <string name="signup_options">Other Options</string>
+    <string name="hint_text_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="text_alertDialog_title">Continue with</string>
+    <string name="text_hint_email">Your Email</string>
+    <string name="text_hint_password">Your Password</string>
+    <string name="text_show_password">Show password</string>
+    <string name="text_log_in">Log in</string>
+    <string name="text_forgot_password">Forgot Password?</string>
+    <string name="text_sign_in_text_view">Or Sign in using</string>
+
+    <string name="facebook_app_id">[APP_ID]</string>
+    <string name="fb_login_protocol_scheme">fb[APP_ID]</string>
+    <string name="title_activity_facebook_sign_up">FacebookSignUp</string>
+</resources>

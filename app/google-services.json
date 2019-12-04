@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1047148685912",
+    "firebase_url": "https://chatapp-3450d.firebaseio.com",
+    "project_id": "chatapp-3450d",
+    "storage_bucket": "chatapp-3450d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047148685912:android:cf91fb4e06473afc9f782d",
+        "android_client_info": {
+          "package_name": "com.sendy.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1047148685912-vbgq17grst1mlc4jmns8nt04a6h39s2b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7NxZnHQdBF2oIai3_VGAVqgyyrk1kwjw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1047148685912-vbgq17grst1mlc4jmns8nt04a6h39s2b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
